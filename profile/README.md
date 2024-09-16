@@ -8,7 +8,6 @@ We're currently working on new tools for moderation and trust & safety on the Fe
 ## The Team
 
 - [@thisismissem](https://github.com/thisismissem) - Project Lead
-- [@sgrigson](https://github.com/sgrigson) - Developer
 
 ## Code of Conduct
 
